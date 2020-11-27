@@ -1,0 +1,30 @@
+.main_logo a {
+  float: left;
+}
+.main_logo p {
+  float: left;
+  font-style: normal;
+  font-size: 60px;
+  color: #ccc;
+  padding-left: 20px;
+  font-weight: 300;
+}
+.panel_scrolling_area .panel_content .panel_content_text.mainDesc {
+  padding: 0 20px 30px 20px;
+  text-align: left;
+  margin-bottom: 100px;
+}
+.panel_scrolling_area .panel_content .panel_content_text.mainDesc em {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.2;
+}
+.panel_scrolling_area .panel_content .panel_content_text.mainDesc em strong {
+  font-size: 17px;
+}
+.panel_scrolling_area .panel_content .panel_content_img {
+  max-width: 500px;
+}
+.panel_scrolling_area .panel_content .panel_content_text {
+  max-width: 500px;
+}

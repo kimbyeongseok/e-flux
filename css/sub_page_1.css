@@ -1,0 +1,36 @@
+.panel_scrolling_area .panel_content {
+  border-bottom: none;
+}
+.panel_scrolling_area .panel_content .panel_content_img {
+  max-width: 500px;
+}
+.panel_scrolling_area .panel_content .panel_content_img img {
+  height: auto;
+}
+.date_box {
+  box-sizing: border-box;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.8;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+.date_box:hover,
+.date_box.active {
+  color: #fff;
+  background: #222;
+}
+.main_contents .content_text p:nth-child(1) {
+  font-weight: 700;
+}
+.container_search_result {
+  width: auto;
+  height: 100%;
+}

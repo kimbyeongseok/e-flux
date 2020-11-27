@@ -1,0 +1,9 @@
+.main_contents .content_title h5 {
+  font-size: 23px;
+  font-weight: 400;
+}
+.content_text p:nth-child(2) {
+  box-sizing: border-box;
+  border-bottom: 1px dashed black;
+  margin-bottom: 20px;
+}

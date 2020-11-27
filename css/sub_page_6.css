@@ -1,0 +1,20 @@
+.container .panels {
+  width: 100%;
+  height: 100%;
+}
+.panel_scrolling_area .panel_content .panel_content_text {
+  max-width: 500px;
+  text-align: left;
+  font-style: normal;
+  margin-bottom: 70px;
+}
+
+.panel_scrolling_area .panel_content .panel_content_text em {
+  font-style: normal;
+}
+.panel_scrolling_area .panel_content .panel_content_text h3 {
+  padding: 20px 0;
+}
+.panel_scrolling_area .panel_content .panel_content_text h3:nth-child(1) {
+  padding: 0 0 20px;
+}

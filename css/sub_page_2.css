@@ -1,0 +1,36 @@
+.container .panels .panel_container {
+  /* margin-right: 2%; */
+}
+
+.container .panels .panel_container .panel_label_text {
+  width: 300px;
+}
+.panel_scrolling_area .panel_content .panel_content_img {
+  max-width: 300px;
+}
+.panel_scrolling_area .panel_content .panel_content_text {
+  margin-bottom: 100px;
+}
+.panel_content_text.fontstyle em {
+  font-style: normal;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+}
+/* ======================================= */
+/* detail page style */
+.content_title h2 {
+  font-size: 50px;
+}
+.content_title h1 {
+  font-size: 70px;
+}
+.main_contents .content_text {
+  padding: 40px 20% 100px 0;
+}
+.main_contents .content_text p {
+  font-style: normal;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.8;
+}
